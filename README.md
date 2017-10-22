@@ -1,2 +1,3 @@
 # Multimedia
-Website for multimedia class 2158 Mme Barsive
+All Books bookstore on Rideau street
+Helpful links.
